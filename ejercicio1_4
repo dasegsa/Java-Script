@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Programa1</title>
+    <body>
+      <h1>
+        Un poco de mate
+      </h1>
+      <script>
+      window.alert(2+9);
+      window.alert(2-6);
+      window.alert(2*3);
+      window.alert(9/3);
+    </script>
+  </body>
+</html>

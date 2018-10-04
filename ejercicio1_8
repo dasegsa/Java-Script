@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Programa1</title>
+    <body>
+      <h1>
+        Sintaxis JavaScript
+      </h1>
+    <script>
+    var edad = 17
+    var nombre = "Segovia Sanus, Daniel "
+    var ec = "Soltero"
+
+    console.log(nombre)
+    console.log(edad)
+    console.log(ec)
+    </script>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Programa1</title>
+    <body>
+      <h1>
+        Sintaxis JavaScript
+      </h1>
+      <li>Variables</li>
+      <script>
+      var a = 10;
+      var b = 7;
+      var c = a+b;
+      var d = a-b;
+      var e = a*b;
+      var f = a/b;
+    </script>
+    <script>
+    alert(c)
+    alert(d)
+    alert(e)
+    alert(f)
+    </script>
+  </body>
+</html>

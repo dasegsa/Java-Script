@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Programa1</title>
+    <body>
+      <h1>
+        Sintaxis JavaScript
+      </h1>
+    <script>
+  var  dia = ["Lunes", "Martes","Miércoles","Jueves","Viernes","Sábado","Domingo"]
+    alert(dia[3])
+    </script>
+  </body>
+</html>

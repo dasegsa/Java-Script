@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Programa1</title>
+    <body>
+      <h1>
+        Un poco de mate
+      </h1>
+      <script>
+      window.alert(2+9); //esta suma aparecerá en forma de alerta solo en la aplicacón Atom
+      window.alert(2-6);
+      window.alert(2*3);/*Here we are, don't turn away now,
+We are the warriors that built this town.
+Here we are, don't turn away now,
+We are the warriors that built this town
+From dust.*/
+      window.alert(9/3);
+    </script>
+  </body>
+</html>
