@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Programa1</title>
+    <body>
+      <h1>
+        Cuádruple de 4
+      </h1>
+      <script>
+      var a = 2
+      var b = a*a
+      var c = b*a
+      var d = c*a
+    </script>
+    <script>
+    alert(d)
+    </script>
+  </body>
+</html>
