@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Programa1</title>
+    <body>
+      <script>
+      var nombre = prompt("¿Cual es tu nickname?")
+      var correo = prompt("¿Y tu correo electrónico?")
+      </script>
+      <script>
+      document.write("Nick: " + nombre + "<br>")
+      document.write("Correo electrónico: " + correo)
+      </script>
+  </body>
+</html>

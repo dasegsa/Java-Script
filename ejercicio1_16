@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Programa1</title>
+    <body>
+      <h1>
+        Sintaxis JavaScript
+      </h1>
+    <script>
+    var sum1 = prompt("¡Hola! Dime el primer número para calcular  ");
+    var sum2 = prompt("Ahora el segundo ");
+  suma = parseInt(sum1) + parseInt(sum2)
+  resta = parseInt(sum1) - parseInt(sum2)
+  multiplicacion = parseInt(sum1) * parseInt(sum2)
+  division = parseInt(sum1) / parseInt(sum2)
+    alert("Resultado de la suma " + suma)
+    alert("Resultado de la resta " + resta)
+    alert("Resultado de la multiplicación " + multiplicacion)
+    alert("Resultado de la división " + division)
+
+
+
+    </script>
+  </body>
+</html>

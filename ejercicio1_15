@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Programa1</title>
+    <body>
+    <script>
+    var nombre = prompt("¿Cual es tu nombre?")
+    var salario = prompt("¿Y tu salario?")
+    </script>
+    <script>
+    document.write("Nombre: " + nombre + "<br>")
+    document.write("Salario: " + salario)
+    </script>
+  </body>
+</html>

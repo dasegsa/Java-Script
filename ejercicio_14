@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Programa1</title>
+    <body>
+      <h1>
+        Sintaxis JavaScript
+      </h1>
+    <script>
+    var nota1 = prompt("¡Hola! ¿Cual es tu nota en el examen? ");
+    var nota2 = prompt("¿Y la segunda?")
+    var nota3 = prompt("La tercera también")
+media = parseInt(nota1) + parseInt(nota2) + parseInt(nota3)
+    //var media = nota5/3
+    alert("Tu nota media es " + media/3)
+
+    </script>
+  </body>
+</html>

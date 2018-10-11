@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Programa1</title>
+    <body>
+      <h1>
+        Operaciones Varias
+      </h1>
+    <script>
+    var a = 3
+    var b = 6
+    var resultado = a+b
+    var resultadoresta = b-a
+    var resultadomult = a*b
+    var resultadodiv = b/a
+    </script>
+    <script>
+        document.write("El resultado de la suma 6+3 es " + resultado);
+    </script>
+<script>
+    document.write("El resultado de la resta 6-3 es " + resultadoresta);
+</script>
+
+<script>
+    document.write("El resultado de la multiplicación 3*6 es " + resultadomult);
+</script>
+
+<script>
+    document.write("El resultado de la división 6/3 es " + resultadodiv);
+</script>
+  </body>
+</html>
