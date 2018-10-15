@@ -8,7 +8,7 @@
         Operaciones Varias
       </h1>
     <script>
-    var a = 3
+    var a = 3 
     var b = 6
     var resultado = a+b
     var resultadoresta = b-a

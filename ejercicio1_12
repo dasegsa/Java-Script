@@ -11,6 +11,7 @@
       var nombre = prompt("¡Hola! ¿Cual es tu nombre?  ");
       var apellido = prompt(" ¿Y tu apellido?");
       alert('Bienvenido '+nombre+' '+apellido+'');
+    
 </script>
   </body>
 </html>

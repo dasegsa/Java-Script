@@ -14,7 +14,7 @@
   resta = parseInt(sum1) - parseInt(sum2)
   multiplicacion = parseInt(sum1) * parseInt(sum2)
   division = parseInt(sum1) / parseInt(sum2)
-    alert("Resultado de la suma " + suma)
+    alert("Resultado de la suma " + suma) 
     alert("Resultado de la resta " + resta)
     alert("Resultado de la multiplicación " + multiplicacion)
     alert("Resultado de la división " + division)

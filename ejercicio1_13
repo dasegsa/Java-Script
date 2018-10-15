@@ -9,7 +9,7 @@
       </h1>
     <script>
     var edad = prompt("¡Hola! ¿Cual es tu edad?  ");
-    var meses = edad*12
+    var meses = edad*12 
     alert("Así que tu edad en meses es " + meses)
 
     </script>

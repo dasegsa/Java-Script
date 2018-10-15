@@ -13,7 +13,7 @@
     var nota3 = prompt("La tercera también")
 media = parseInt(nota1) + parseInt(nota2) + parseInt(nota3)
     //var media = nota5/3
-    alert("Tu nota media es " + media/3)
+    alert("Tu nota media es " + media/3) 
 
     </script>
   </body>
